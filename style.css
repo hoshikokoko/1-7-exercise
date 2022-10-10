@@ -16,3 +16,8 @@
 .service-heading {
   padding: 20px 20px;
 }
+
+.service-contents-box {
+  width: 840px;
+  margin: 50px auto;
+}
